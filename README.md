@@ -30,15 +30,7 @@
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Richardo09&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ECF8E,100:0E75B6&height=3"/>
 
 # 👨‍💻 About Me
 
@@ -63,118 +55,39 @@ currently_learning:
 
 <div align="center">
 
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,supabase,postgresql" />
-
-### 📱 Android Development
-
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,supabase,postgresql,kotlin,androidstudio,git,github,vercel,vscode" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:3ECF8E&height=3"/>
 
 # 🌐 Web Projects
 
-<div align="center">
-
-## 🗳️ VoteLens
-
-Modern election analytics dashboard with Sainte-Laguë calculation system.
-
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
-<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
-
-</div>
-
-### 🔗 Repository
-- [VoteLens](https://github.com/Richardo09/votelens)
-
----
-
-<div align="center">
-
-## 🌐 Portfolio Website
-
-Personal portfolio website built with Next.js.
-
-</div>
-
-### 🔗 Repository
-- [Portfolio Next.js](https://github.com/Richardo09/portofolio-nextjs)
-
----
-
-<div align="center">
-
-## 💰 PriceCompare Pro
-
-Price comparison web application.
-
-</div>
-
-### 🔗 Repository
-- [PriceCompare Pro](https://github.com/Richardo09/pricecompare-pro)
-
----
-
-<div align="center">
-
-## 🔐 Password Checker
-
-Password strength checking application.
-
-</div>
-
-### 🔗 Repository
-- [Password Checker](https://github.com/Richardo09/password-checker)
-
----
-
-<div align="center">
-
-## 🌦️ Weather App
-
-Weather forecasting application.
-
-</div>
-
-### 🔗 Repository
-- [Weather App](https://github.com/Richardo09/weather-app)
+| Project | Repository | Technology |
+|---|---|---|
+| VoteLens | [GitHub](https://github.com/Richardo09/votelens) | Next.js, TypeScript, Supabase, PostgreSQL |
+| Portfolio Next.js | [GitHub](https://github.com/Richardo09/portofolio-nextjs) | Next.js, Tailwind CSS |
+| PriceCompare Pro | [GitHub](https://github.com/Richardo09/pricecompare-pro) | JavaScript, API |
+| Password Checker | [GitHub](https://github.com/Richardo09/password-checker) | JavaScript |
+| Weather App | [GitHub](https://github.com/Richardo09/weather-app) | JavaScript, Weather API |
 
 ---
 
 # 📱 Android Projects
 
-<div align="center">
+| Project | Repository | Technology |
+|---|---|---|
+| FallingNumbers | [GitHub](https://github.com/Richardo09/FallingNumbers) | Kotlin, Android Studio |
 
-## 🎮 FallingNumbers
-
-Arcade-style Kotlin game focused on gameplay mechanics and scoring systems.
-
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-
-</div>
-
-### 🔗 Repository
-- [FallingNumbers](https://github.com/Richardo09/FallingNumbers)
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ECF8E,100:0E75B6&height=3"/>
 
 # 📈 GitHub Activity
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Richardo09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Richardo09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardo09&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardo09&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -198,32 +111,10 @@ Arcade-style Kotlin game focused on gameplay mechanics and scoring systems.
 
 ---
 
-# 🌐 Connect With Me
-
 <div align="center">
 
-<a href="https://richardobram.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Richardo09">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/richardo-bram-barus-b7a44b398/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/ardobars/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+### ⚡ Building scalable systems and meaningful digital experiences.
 
 </div>
-
----
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:0E75B6&height=120&section=footer"/>
-
-</div>
