@@ -81,16 +81,6 @@ currently_learning:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ECF8E,100:0E75B6&height=3"/>
 
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Richardo09&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📊 Contribution Graph
 
 <div align="center">
