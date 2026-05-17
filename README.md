@@ -4,7 +4,7 @@
 
 ### Fullstack Developer • Game Developer • Analytics Dashboard Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Developing+Games+with+Kotlin;Creating+Scalable+Dashboard+Systems;Passionate+About+Technology+and+Innovation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;Developing+Games+with+Kotlin;Creating+Scalable+Dashboard+Systems;Passionate+About+Technology+and+Innovation" />
 
 <br/>
 
@@ -35,7 +35,7 @@
 # 👨‍💻 About Me
 
 ```yaml
-name: Richardo Bram
+name: Richardo Bram Barus
 role: Fullstack Developer & Game Developer
 location: Indonesia
 
@@ -148,27 +148,7 @@ https://github.com/Richardo09/votelens
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richardo09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardo09&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Richardo09&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Richardo09/Richardo09/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Richardo09&theme=tokyonight&hide_border=true"/>
 
 </div>
 
