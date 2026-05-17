@@ -81,13 +81,7 @@ currently_learning:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ECF8E,100:0E75B6&height=3"/>
 
-# 📊 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Richardo09&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
