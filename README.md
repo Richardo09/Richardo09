@@ -61,13 +61,31 @@ currently_learning:
 ### 🗳️ VoteLens
 Modern election analytics dashboard with Sainte-Laguë calculation system.
 
+🔗 Repository  
+- [VoteLens](https://github.com/Richardo09/votelens)
+
+---
+
 ### 🎮 FallingNumbers
 Arcade-style Kotlin game focused on gameplay mechanics and scoring systems.
 
-### 🔗 Repositories
-- [VoteLens](https://github.com/Richardo09/votelens)
-- [Portfolio Next.js](https://github.com/Richardo09/portofolio-nextjs)
+🔗 Repository  
 - [FallingNumbers](https://github.com/Richardo09/FallingNumbers)
+
+---
+
+### 🌐 Portfolio Website
+Personal portfolio website built with Next.js.
+
+🔗 Repository  
+- [Portfolio Next.js](https://github.com/Richardo09/portofolio-nextjs)
+
+---
+
+### 💰 PriceCompare Pro
+Price comparison web application.
+
+🔗 Repository  
 - [PriceCompare Pro](https://github.com/Richardo09/pricecompare-pro)
 
 ---
