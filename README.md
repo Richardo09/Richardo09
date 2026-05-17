@@ -55,7 +55,6 @@ currently_learning:
   - System Design
   - Cloud Architecture
   - Mobile Development
-  - Scalable Backend Systems
 ```
 
 ---
@@ -127,6 +126,19 @@ Price comparison web application.
 
 <div align="center">
 
+## 🔐 Password Checker
+
+Password strength checking application.
+
+</div>
+
+### 🔗 Repository
+- [Password Checker](https://github.com/Richardo09/password-checker)
+
+---
+
+<div align="center">
+
 ## 🌦️ Weather App
 
 Weather forecasting application.
@@ -138,7 +150,7 @@ Weather forecasting application.
 
 ---
 
-# 📱 Android & Game Projects
+# 📱 Android Projects
 
 <div align="center">
 
