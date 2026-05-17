@@ -120,6 +120,11 @@ Next.js • TypeScript • Tailwind CSS • Supabase • PostgreSQL
 
 ```txt
 https://github.com/Richardo09/votelens
+https://github.com/Richardo09/portofolio-nextjs
+https://github.com/Richardo09/FallingNumbers
+https://github.com/Richardo09/pricecompare-pro
+https://github.com/Richardo09/password-checker
+https://github.com/Richardo09/weather-app
 ```
 
 ---
