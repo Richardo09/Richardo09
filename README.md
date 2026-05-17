@@ -2,9 +2,9 @@
 
 # 🚀 Richardo Bram Barus
 
-### Fullstack Developer • Game Developer • Analytics Dashboard Engineer
+### Fullstack Developer • Analytics Dashboard Engineer • Game Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;Developing+Games+with+Kotlin;Creating+Scalable+Dashboard+Systems;Passionate+About+Technology+and+Innovation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;Creating+Scalable+Dashboard+Systems;Developing+Games+with+Kotlin;Passionate+About+Technology+and+Innovation" />
 
 <br/>
 
@@ -37,28 +37,17 @@
 ```yaml
 name: Richardo Bram Barus
 role: Fullstack Developer & Game Developer
-location: Indonesia
 
-specialization:
+focus:
   - Modern Web Applications
   - Analytics Dashboard Systems
-  - Game Development
+  - Kotlin Game Development
   - Data Visualization
-
-tech_stack:
-  - Next.js
-  - TypeScript
-  - Kotlin
-  - React
-  - Tailwind CSS
-  - Supabase
-  - PostgreSQL
 
 currently_learning:
   - System Design
-  - Cloud Deployment
-  - Scalable Architecture
-  - Game Mechanics
+  - Cloud Architecture
+  - Scalable Backend Systems
 ```
 
 ---
@@ -67,7 +56,7 @@ currently_learning:
 
 <div align="center">
 
-### Frontend Development
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,javascript" />
 
@@ -82,6 +71,16 @@ currently_learning:
 ### Tools & Deployment
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma,vscode" />
+
+</div>
+
+---
+
+# 🧠 Development Principles
+
+<div align="center">
+
+Clean Architecture • Scalable Systems • Responsive UI/UX • Maintainable Code • Real-world Problem Solving
 
 </div>
 
@@ -103,12 +102,11 @@ currently_learning:
 
 ### 🚀 Features
 
-- 🔐 Role-based Authentication
-- 📊 Election Analytics Dashboard
-- 🗳️ Vote Management System
-- 🧮 Sainte-Laguë Calculation
-- 🏛️ Structured Regional Hierarchy
-- 📱 Responsive Modern UI
+- Role-based Authentication
+- Election Analytics Dashboard
+- Sainte-Laguë Calculation System
+- Structured Regional Hierarchy
+- Responsive Modern UI
 
 ### 🛠️ Built With
 
@@ -116,24 +114,21 @@ currently_learning:
 Next.js • TypeScript • Tailwind CSS • Supabase • PostgreSQL
 ```
 
-### 🔗 Repository
+### 🔗 Featured Repositories
 
-```txt
-https://github.com/Richardo09/votelens
-https://github.com/Richardo09/portofolio-nextjs
-https://github.com/Richardo09/FallingNumbers
-https://github.com/Richardo09/pricecompare-pro
-https://github.com/Richardo09/password-checker
-https://github.com/Richardo09/weather-app
-```
+- [VoteLens](https://github.com/Richardo09/votelens)
+- [Portfolio Next.js](https://github.com/Richardo09/portofolio-nextjs)
+- [PriceCompare Pro](https://github.com/Richardo09/pricecompare-pro)
+- [Password Checker](https://github.com/Richardo09/password-checker)
+- [Weather App](https://github.com/Richardo09/weather-app)
 
 ---
 
 <div align="center">
 
-## 🎮 Kotlin Game Project
+## 🎮 FallingNumbers
 
-### Experimental Game Development Project
+### Kotlin Arcade Game Project
 
 <img src="https://img.shields.io/badge/Kotlin-Game_Development-purple?style=for-the-badge&logo=kotlin"/>
 <img src="https://img.shields.io/badge/STATUS-In_Development-orange?style=for-the-badge"/>
@@ -142,10 +137,15 @@ https://github.com/Richardo09/weather-app
 
 ### 🚀 Highlights
 
-- 🎮 Built using Kotlin
-- 🧠 Focused on gameplay mechanics
-- ⚡ Exploring game architecture
-- 📱 Mobile-oriented development
+- Built using Kotlin
+- Arcade-style gameplay mechanics
+- Score tracking system
+- Mobile-oriented development
+- Exploring game architecture & logic systems
+
+### 🔗 Repository
+
+- [FallingNumbers](https://github.com/Richardo09/FallingNumbers)
 
 ---
 
