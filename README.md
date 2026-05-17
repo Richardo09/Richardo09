@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🚀 Richardo Bram
+# 🚀 Richardo Bram Barus
 
-### Fullstack Developer • Analytics Dashboard Engineer • Modern Web Builder
+### Fullstack Developer • Game Developer • Analytics Dashboard Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Fullstack+Developer+with+Next.js;Creating+Scalable+Dashboard+Systems;Passionate+About+Data+Visualization" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;Developing+Games+with+Kotlin;Creating+Scalable+Dashboard+Systems;Passionate+About+Technology+and+Innovation" />
 
 <br/>
 
@@ -32,19 +32,28 @@
 
 ```yaml
 name: Richardo Bram
-role: Fullstack Developer
-focus: Analytics Dashboard & Modern Web Applications
+role: Fullstack Developer & Game Developer
 location: Indonesia
+
+specialization:
+  - Modern Web Applications
+  - Analytics Dashboard Systems
+  - Game Development
+  - Data Visualization
+
 tech_stack:
   - Next.js
   - TypeScript
+  - Kotlin
   - React
   - Tailwind CSS
   - Supabase
   - PostgreSQL
+
 currently_learning:
   - System Design
   - Cloud Deployment
+  - Game Mechanics
   - Scalable Architecture
 ```
 
@@ -54,13 +63,17 @@ currently_learning:
 
 <div align="center">
 
-### Frontend
+### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,javascript" />
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=supabase,postgresql,nodejs" />
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgresql" />
+
+### Game Development
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
 
 ### Tools & Deployment
 
@@ -70,7 +83,7 @@ currently_learning:
 
 ---
 
-# 📌 Featured Project
+# 📌 Featured Projects
 
 <div align="center">
 
@@ -84,16 +97,16 @@ currently_learning:
 
 </div>
 
-### 🚀 Main Features
+### 🚀 Features
 
 - 🔐 Role-based Authentication
 - 📊 Election Analytics Dashboard
 - 🗳️ Vote Management System
 - 🧮 Sainte-Laguë Calculation
 - 🏛️ Structured Regional Hierarchy
-- 📱 Responsive UI Design
+- 📱 Responsive Modern UI
 
-### 🛠️ Tech Stack
+### 🛠️ Built With
 
 ```txt
 Next.js • TypeScript • Tailwind CSS • Supabase • PostgreSQL
@@ -104,6 +117,26 @@ Next.js • TypeScript • Tailwind CSS • Supabase • PostgreSQL
 ```txt
 https://github.com/Richardo09/votelens
 ```
+
+---
+
+<div align="center">
+
+## 🎮 Kotlin Game Project
+
+### Experimental Game Development Project
+
+<img src="https://img.shields.io/badge/Kotlin-Game_Development-purple?style=for-the-badge&logo=kotlin"/>
+<img src="https://img.shields.io/badge/STATUS-In_Development-orange?style=for-the-badge"/>
+
+</div>
+
+### 🚀 Highlights
+
+- 🎮 Built using Kotlin
+- 🧠 Focused on gameplay mechanics
+- ⚡ Exploring game architecture
+- 📱 Mobile-oriented development
 
 ---
 
@@ -147,6 +180,6 @@ https://github.com/Richardo09/votelens
 
 ## ⚡ Motto
 
-### *"Building digital products with scalable systems and meaningful experiences."*
+### *"Building digital products, interactive experiences, and scalable systems through code."*
 
 </div>
