@@ -70,6 +70,7 @@ currently_learning:
 | PriceCompare Pro | [GitHub](https://github.com/Richardo09/pricecompare-pro) | JavaScript, API |
 | Password Checker | [GitHub](https://github.com/Richardo09/password-checker) | JavaScript |
 | Weather App | [GitHub](https://github.com/Richardo09/weather-app) | JavaScript, Weather API |
+| Cafe | [GitHub](https://github.com/Richardo09/cafe) | JavaScript, HTML, CSS |
 
 ---
 
