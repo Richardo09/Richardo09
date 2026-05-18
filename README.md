@@ -55,7 +55,7 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,supabase,postgresql,kotlin,androidstudio,git,github,vercel,vscode" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind,nodejs,supabase,postgresql,kotlin,androidstudio,git,github,vercel,vscode" />
 
 </div>
 
