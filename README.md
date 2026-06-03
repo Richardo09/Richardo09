@@ -15,31 +15,27 @@
 <a href="https://github.com/Richardo09">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/richardo-bram-barus-b7a44b398/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://www.instagram.com/ardobars/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 <a href="https://richardobram.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ECF8E,100:0E75B6&height=3"/>
 
-## 👨‍💻 About Me
-
-Hi, I'm **Richardo Bram Barus**, a passionate developer focused on building modern, scalable, and meaningful digital products.
-
-I enjoy working across web, mobile, and dashboard systems, combining clean interfaces with reliable backend logic.
+# 👨‍💻 About Me
 
 ```yaml
 name: Richardo Bram Barus
-role: Fullstack Developer
 
 specialization:
   - Fullstack Web Development
@@ -51,9 +47,24 @@ currently_learning:
   - System Design
   - Cloud Architecture
   - Mobile Development
+```
 
-interests:
-  - Scalable Applications
-  - Clean UI/UX
-  - Mobile Apps
-  - Game Development
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,supabase,postgresql,kotlin,androidstudio,git,github,vercel,vscode" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:3ECF8E&height=3"/>
+
+
+
+### ⚡ Building scalable systems and meaningful digital experiences.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:0E75B6&height=120&section=footer"/>
