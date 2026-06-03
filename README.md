@@ -4,7 +4,21 @@
 
 ### Fullstack Developer • Android Developer • Game Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=3ECF8E&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;Developing+Android+Apps+with+Kotlin;Creating+Scalable+Dashboard+Systems;Passionate+About+Technology+and+Innovation" />
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,supabase,postgres,kotlin,androidstudio,git,github,vercel,vscode,php,laravel,mysql,html,css,js" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-8-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL%20%2F%20MariaDB-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-Local%20Server-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/QR%20Code%20%2F%20Barcode-Camera%20Scanner-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/jsQR-JavaScript%20QR%20Scanner-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ngrok-HTTPS%20Testing-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" />
+</p>
 
 <br/>
 
