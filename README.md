@@ -48,55 +48,55 @@ currently_learning:
 
 <div align="center">
 
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.simpleicons.org/supabase/3ECF8E" title="Supabase"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.simpleicons.org/vercel/000000" title="Vercel"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code"/>
 &nbsp;
-<img width="75" height="52" src="https://www.php.net/images/logos/php-logo.svg" title="PHP 8"/>
+<img width="75" height="55" src="https://www.php.net/images/logos/php-logo.svg" title="PHP 8" alt="PHP 8"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel 12"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" title="Laravel 12" alt="Laravel 12"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" title="MariaDB"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" title="MariaDB" alt="MariaDB"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" title="XAMPP"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original.svg" title="XAMPP" alt="XAMPP"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.simpleicons.org/ngrok/1F1E37" title="Ngrok"/>
+<img width="55" height="55" src="https://cdn.simpleicons.org/ngrok/1F1E37" title="Ngrok" alt="Ngrok"/>
 &nbsp;
-<img width="52" height="52" src="https://api.iconify.design/mdi:qrcode-scan.svg?color=%23000000" title="QR Code Scanner"/>
+<img width="55" height="55" src="https://api.iconify.design/mdi:qrcode-scan.svg?color=%23000000" title="QR Code Scanner" alt="QR Code Scanner"/>
 &nbsp;
-<img width="52" height="52" src="https://api.iconify.design/mdi:barcode-scan.svg?color=%23000000" title="Barcode Scanner"/>
+<img width="55" height="55" src="https://api.iconify.design/mdi:barcode-scan.svg?color=%23000000" title="Barcode Scanner" alt="Barcode Scanner"/>
 &nbsp;
-<img width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="jsQR"/>
+<img width="55" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="jsQR" alt="jsQR"/>
 
 </div>
 
