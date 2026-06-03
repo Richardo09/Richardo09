@@ -48,16 +48,7 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,supabase,postgres,kotlin,androidstudio,git,github,vercel,vscode,php,laravel,mysql,html,css,js" />
-
-<br/><br/>
-
-<img width="48" height="48" src="https://cdn.simpleicons.org/mariadb/003545" alt="MariaDB" title="MariaDB"/>
-<img width="48" height="48" src="https://cdn.simpleicons.org/xampp/FB7A24" alt="XAMPP" title="XAMPP"/>
-<img width="48" height="48" src="https://cdn.simpleicons.org/ngrok/1F1E37" alt="Ngrok" title="Ngrok"/>
-<img width="48" height="48" src="https://api.iconify.design/mdi:qrcode-scan.svg?color=%23000000" alt="QR Scanner" title="QR Scanner"/>
-<img width="48" height="48" src="https://api.iconify.design/mdi:barcode-scan.svg?color=%23000000" alt="Barcode Scanner" title="Barcode Scanner"/>
-<img width="48" height="48" src="https://skillicons.dev/icons?i=js" alt="jsQR" title="jsQR"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,supabase,postgres,kotlin,androidstudio,git,github,vercel,vscode,php,laravel,mysql,html,css,js&perline=14" />
 
 </div>
 
